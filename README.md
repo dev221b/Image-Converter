@@ -1,5 +1,5 @@
 # Project Name : Image Resizer/Converter
-This project can be used to resize an image to desired dimensions and also to convert the format of an image from one to another. This is an efficient project which can be used effortlessly by anyone. The help comments direct the user on what to do. The project can also be further modified to rotate or filter images and so much more. In overall, this simple yet powerful project can be used to apply quick efficient changes to an image by using very few lines of code.
+This project can be used to resize an image to desired dimensions and also to convert the format of an image from one to another. This is an efficient project which can be used effortlessly by anyone. The help comments direct the user on what to do. The project can also be further modified to rotate or filter images and so much more. In short, this simple yet powerful project can be used to apply quick efficient changes to an image by using very few lines of code.
 ## Team Members and Personal Github URL
 Devika B - https://github.com/dev221b
 Nazal Thanzeer VN - https://github.com/nazalthanzeervn
