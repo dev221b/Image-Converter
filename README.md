@@ -20,5 +20,5 @@ Install any Pyhton version (3.6 or above recommended). Then,
 pip install typer and Pillow.
 We used Visual Studio code for the project implementation.
 ## How to Run
-Type "typer .\Image_Converter.py run *<command you wish to run>* *<input paramaters>*"
+Type "typer .\Image_Converter.py run *'function you wish to run'* *'input paramaters'*"
 In case of confusions, type "typer .\Image_Converter.py --help" and the instructions or command help will be displayed making the project easy and efficient at the same time.
