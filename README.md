@@ -7,11 +7,11 @@ Nazal Thanzeer VN - https://github.com/nazalthanzeervn
 ## Link to product walkthrough
 https://www.loom.com/share/556cf227714240c28768425ada422bef
 ## How it Works?
-The project works on the PILLOW library 
-Typer library is used to implemnt command line interface so that the users can effortlessly use the project
-The project has two functions : resize and convert
-Resize : The function is used to resize the concerned immage to the desired width and height. It accepts the input file location, desired width and height as integers and the output file location. The resized image is stored in the specified output location.
-Convert : The function is used to convert the format of the image concerned. The function accepts the input file location, the current format of the image and the desired format. For example, if the image is in jpeg format and the user needs to convert it into png format, the function effectively produced an image in the desired format and saves it with the same name but in different format in your system.
+The project works on the PILLOW library.  
+Typer library is used to implemnt command line interface so that the users can effortlessly use the project. 
+The project has two functions : resize and convert. 
+Resize : The function is used to resize the concerned immage to the desired width and height. It accepts the input file location, desired width and height as integers and the output file location. The resized image is stored in the specified output location. 
+Convert : The function is used to convert the format of the image concerned. The function accepts the input file location, the current format of the image and the desired format. For example, if the image is in jpeg format and the user needs to convert it into png format, the function effectively produced an image in the desired format and saves it with the same name but in different format in your system. 
 ## Libraries Used
 PILLOW - 9.0.1
 Typer - 0.3.2
